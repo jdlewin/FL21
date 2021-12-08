@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "workbench.preferredHighContrastColorTheme": "Solarized Light",
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.sideBar.location": "right",
+    "git.enableCommitSigning": true
+}
