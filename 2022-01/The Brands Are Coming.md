@@ -29,33 +29,56 @@ These facts also underscore a few things:
 
 ****
 
-Second is that, having listened to the post-Mortem on the Goodfellas project hack, it's clear that some hard lessons are being learned. Many of these lessons are around social engineering. The other apparent factor however Discord plays an unfortunately central role.
+Second is that, having listened to a few project horror stories, it's clear that some hard lessons are being learned. Many of these lessons are around social engineering. And in some cases, Discord plays an unfortunately central role.
 
 ****
 
-On the surface one would simply see this as an opportunity. I have no doubt a cadre of 'specialists' are coming together to offer the value-added service of properly designing and implementing mature security practices. Which of those groups to trust is another matter entirely.
+On the surface one might simply see this as an opportunity. I have no doubt people are already hawking the value-added service of properly designed and implemented mature security practices. Which of those groups to trust is another matter entirely.
 
 ****
 
-The secondary question is what becomes of Discord as arguably _the_ tool for people organizing work in these spaces? Does Discord get usurped by a superior alternative (of which there aren't many to choose from)? Does Discord try to harness the energy and build to meet the market? Do project organizers learn from their elders embrace email (a man can dream)?
+The secondary question is: what is the fate of Discord as _the_ tool for people trying to do meaningful work? Is it usurped by a superior alternative? Do they build to meet the market? Do project organizers learn from their elders embrace email?
 
 ****
 
-Whatever happens, in the near term at least one thing is true: Twitter remains central. The company's head of product marketing has been on this trip for months, and the company's recent rollout of NFT profile photos is the latest deployment from a product giant that's been awakened in the past twelve months.
+Whatever happens, in the near term clear: Twitter remains central.
+
+The Spaces product has proved indispensable, in addition the durability of the core experience. And the rollout of NFT support in user profiles is inspired.
 
 ****
 
-And this brings me to the two projects I am most facinated by at the moment: Bluesky and Mirror.
-
-The former is the working group tasked with bringing forth the open protocol on which Twitter can operate into the future, free to pursue its particular business priorities while operating on a layer free from scrutiny.
-
-WHile the latter appears to be the spiritual successor to Medium (and Blogger before it). The monetization mechanism, however, is baked into the product. You cannot publish to Mirror by virtue of simply having an email address; you must use an Ethereum address. And that same address is programatically addressable, and is able to send and receive the cryptocurrency.
+Last year something happened and Twitter remembered it can build things. It'll be facinating to watch how much they lean into being associated with projects like these.
 
 ****
 
-And while authors on Mirror _must_ be able to deal in that currency, anyone with a web browser and read what that author publishes. Which, to my eyes, is one of the best counterpoints to the right-click retort from the peanut gallery. Of course the words are free. It is the extent to which they reach people that confers any monetary value. Someone will publish something to Mirror that develops enough cultural currency that the words as an object on the Ethereum blockchain develop monetary value.
+Which brings me to the two projects I'm most interested in at the moment: Bluesky and Mirror.
 
 ****
 
-Each of these publishing tools are therefore ones I'll be watching closely. Both aim to be built on the same type of rails. Rails which are a magnet for charlatans, hucksters, rubes, and fools. But rails nonetheless. Rails that enable all manner of things the internet has never had before.
+The former is the working group tasked with bringing forth the open protocol on which Twitter can operate a into the future; free to pursue its particular business priorities and exercise some stronger curatorial inclinations.
 
+****
+
+You cannot publish to Mirror by virtue of simply having an email address; you must use an Ethereum address. And that same address is programatically addressable, and is able to send and receive the cryptocurrency.
+
+ ****
+
+You cannot publish to Mirror by virtue of simply having an email address; you must use an Ethereum address. And that same address is programmatically addressable, and is therefore able to send and receive Ethereum cryptocurrency.
+
+****
+
+And while authors on Mirror _must_ be able to deal in that currency, anyone with a web browser can read what that author publishes.
+
+Which, to my eyes, is one of the best counterpoints to the right-click retort from the peanut gallery....
+
+****
+
+...Because of course the words are free. It is the extent to which they reach an audience that any appreciable value can exist. The key is to enable any and every member of that audience to offer something in exchange.
+
+****
+
+Both of these tools are enabled by the same new type of rails. And as with just about any novel medium, it is a magnet for charlatans, hucksters, rubes, and fools. And vocal critics of its efficacies and externalities, both short and long term.
+
+****
+
+But to dismiss it all? To dismiss the rails because of what's running on them, or who's building them, or how they work today, is to severely miss the point.
