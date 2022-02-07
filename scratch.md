@@ -1,0 +1,7 @@
+# Scratch
+
+Which brings us to how, I believe, most blockchain applications, like BTC or ETH, have been painted with the bad-for-the-planet brush. In order for those computers to compute, a significant amount of electricity is consumed. That we are living through a moment of reckoning as a species in terms of how we produce electricity and the effect that has on this planet is no laughing matter. And so the advent of what appears to be a superfulous daliance does create something of an easy target for criticism. I'm not going to ignore this aspect of things; I'm simply setting it aside for the moment.
+
+****
+
+Another idea worth setting aside is the instantiating application of blockchain technology. While some would argue that the Bitcoin white paper is this century's Magna Carta, it is naive to dismiss such an argument because one doesn't believe the world needs a different store of value or medium of exchange. Leave out that the desire to transact without the involvement of a third party is older than the goddamned British Empire. No, it's enough to point out that everything being built today; everything you've heard about; all of it is no more than $TK_YEARS_SINCE_SATOSHI years old.
