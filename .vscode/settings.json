@@ -5,5 +5,6 @@
     "workbench.preferredLightColorTheme": "Solarized Light",
     "workbench.sideBar.location": "right",
     "git.enableCommitSigning": true,
-    "typewriterScrollMode.enable": true
+    "typewriterScrollMode.enable": true,
+    "typewriterAutoScroll.enable": true
 }

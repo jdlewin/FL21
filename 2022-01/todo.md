@@ -1,5 +1,4 @@
 # TODO
 
 - [x] Install JetBrains
-- [ ] Set Margins
-- 
+- [ ] Open issue for the energy consumption debate
