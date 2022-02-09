@@ -6,9 +6,17 @@ Which brings us to how, I believe, most blockchain applications, like BTC or ETH
 
 Another idea worth setting aside is the instantiating application of blockchain technology. While some would argue that the Bitcoin white paper is this century's Magna Carta, it is naive to dismiss such an argument because one doesn't believe the world needs a different store of value or medium of exchange. Leave out that the desire to transact without the involvement of a third party is older than the goddamned British Empire. No, it's enough to point out that everything being built today; everything you've heard about; all of it is no more than $TK_YEARS_SINCE_SATOSHI years old.
 
+****
 
+That publishing essays like this one can produce new shapes is only one aspect of this one star system. There are other forms of creative expression to explore: musicians and poets and visual artists. There are ideas around state and organizational identity. And around careers and skills development. And pseyduonyimty. And more still beyond me at this moment.
 
-In adjacent systems are DAOs and DeFi. NFTs and Bitcoin. And dark money and plenty more things, exciting and concerning. All I can tell you is that it wouldn't be a new frontier if there weren't charlatans, storms, and dragons. To bury one's head in the sand, or discount anyone who hasn't already decided to do the same, is no way to live. Go find anyone over the age of sixty and ask them what the popular opinion of personal computing was in 1975. To have believed that we'd all be living as we do today would've had you labelled a heretic.[^A favorite dystopian example here is Gary Shtyngart's Super Sad True Love Story.]
+****
+
+To really internalize this dynamic, I find thinking about ecologies like galaxy metaphor feels appropriate: There are numerous star systems to explore, only some of which we're aware of thus far. Who knows how many planets each system consists of, and what each of those contains?
+
+****
+
+In adjacent systems are DAOs and DeFi. NFTs and Bitcoin. And dark money and [^A favorite dystopian example here is Gary Shtyngart's Super Sad True Love Story.]
 
 ****
 
