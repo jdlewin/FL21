@@ -1,5 +1,5 @@
 ## Going Beyond The Reef
-#### 2022-02-09
+#### 2022_02_10
 
 ⌬ Going Beyond The Reef ⌬
 
@@ -87,12 +87,10 @@ Go find anyone over the age of sixty and ask them what the popular opinion of pe
 
 ****
 
-While replacing our phones with glasses sounds interesting, it's the applications of what Satoshi outlined which will enable the truly bizarre and facinating futures.
+While replacing our phones with glasses sounds interesting, it's the applications of what Satoshi outlined which will enable the truly bizarre and fascinating futures.
 
 For example, what is fashion in a world where one's appearance is the product of code as opposed to textiles?
 
 ****
 
-WThere are naturally reasons to be concerned. It wouldn't be a new frontier if there weren't charlatans, storms, and dragons. But to bury one's head in the sand, or discount anyone who hasn't already decided to do the same, is no way to live.
-
-Exploring suits me far better.
+There are naturally reasons to be concerned. It wouldn't be a new frontier if there weren't charlatans, storms, and dragons. But to bury one's head in the sand, or discount anyone who hasn't already decided to do the same, is no way to live.

@@ -24,10 +24,6 @@ Which is how I've arrived here with you, dear reader. My life's circumstances ar
 
 ****
 
-Two of my favorite thinkers of the last century were Hunter Thompson and John Perry Barlow. They were each exceedingly, unabashedly, their own characters. My hope is that I can channel a bit of their energy as I explore the stars. Consider this essay the first in a collection. Dispatches from the field. Situation reports. Letters home.
-
-If you're at all interested, I do hope you'll let me know.
-
 [^1]: this is a footnote test.
 
 ****
