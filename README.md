@@ -2,7 +2,7 @@
 
 Dispatches from the field. Situation reports. Letters home.
 
-Two of my favorite thinkers of the last century were Hunter Thompson and John Perry Barlow. They were each, exceedingly and unabashedly, their own characters. My hope is that I can channel a bit of their energy.
+Two of my favorite thinkers of the last century were Hunter Thompson and John Perry Barlow. They were each, exceedingly and unabashedly, their own characters. My hope is that I can channel a bit of their energy while I explore the adjacent possible.
 
 ### On the Name
 
